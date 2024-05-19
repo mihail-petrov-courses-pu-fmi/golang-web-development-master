@@ -6,7 +6,7 @@
     <thead>
         <tr>
             <th width="220">название</th>
-            <th width="280px">описание</th>
+            <th width="480">описание</th>
         </tr>
     </thead>
     <tbody>
@@ -61,7 +61,7 @@
     <thead>
         <tr>
             <th width="220">название</th>
-            <th width="280px">описание</th>
+            <th width="480">описание</th>
         </tr>
     </thead>
     <tbody>
